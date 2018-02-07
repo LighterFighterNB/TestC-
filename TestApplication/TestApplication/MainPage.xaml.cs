@@ -25,6 +25,7 @@ namespace TestApplication
         public MainPage()
         {
             this.InitializeComponent();
+            textBox1.Text = "Hello world!";
         }
     }
 }
